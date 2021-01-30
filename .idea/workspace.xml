@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="938e1de1-26e4-43ab-8807-643c53716c95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1ngdwzqkyNWSpil5Er8pjubrbIi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pkg/project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestOssPut in github.com/oss-go/pkg/project">
+    <configuration name="go build github.com/oss-go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="oss-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/oss-go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOssPut in github.com/oss-go/pkg/project" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="oss-go" />
+      <working_directory value="$PROJECT_DIR$/pkg/project" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/oss-go/pkg/project" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestOssPut$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOssPut in oss_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="oss-go" />
+      <working_directory value="$PROJECT_DIR$/pkg/project" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/pkg/project/oss_test.go" />
+      <pattern value="^TestOssPut$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestOssPut in github.com/oss-go/pkg/project" />
+        <item itemvalue="Go Build.go build github.com/oss-go" />
+        <item itemvalue="Go Test.TestOssPut in oss_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1903" y="-318" key="#TestOssPut_in_github.com/oss-go/pkg/project" timestamp="1611826133828">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state x="1903" y="-318" key="#TestOssPut_in_github.com/oss-go/pkg/project/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611826133828" />
+    <state x="2372" y="-148" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611896832153">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state x="2372" y="-148" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611896832153" />
+    <state width="2033" height="329" key="GridCell.Tab.0.bottom" timestamp="1611903496908">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state width="2033" height="329" key="GridCell.Tab.0.bottom/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611903496908" />
+    <state width="2033" height="329" key="GridCell.Tab.0.center" timestamp="1611903496906">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state width="2033" height="329" key="GridCell.Tab.0.center/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611903496906" />
+    <state width="2033" height="329" key="GridCell.Tab.0.left" timestamp="1611903496905">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state width="2033" height="329" key="GridCell.Tab.0.left/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611903496905" />
+    <state width="2033" height="329" key="GridCell.Tab.0.right" timestamp="1611903496907">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state width="2033" height="329" key="GridCell.Tab.0.right/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611903496907" />
+    <state width="2033" height="338" key="GridCell.Tab.1.bottom" timestamp="1611902881296">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state width="2033" height="338" key="GridCell.Tab.1.bottom/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611902881296" />
+    <state width="2033" height="338" key="GridCell.Tab.1.center" timestamp="1611902881295">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state width="2033" height="338" key="GridCell.Tab.1.center/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611902881295" />
+    <state width="2033" height="338" key="GridCell.Tab.1.left" timestamp="1611902881295">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state width="2033" height="338" key="GridCell.Tab.1.left/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611902881295" />
+    <state width="2033" height="338" key="GridCell.Tab.1.right" timestamp="1611902881295">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state width="2033" height="338" key="GridCell.Tab.1.right/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611902881295" />
+    <state x="1891" y="-533" key="SettingsEditor" timestamp="1611826659393">
+      <screen x="1440" y="-725" width="2560" height="1417" />
+    </state>
+    <state x="1891" y="-533" key="SettingsEditor/0.23.1440.830/1440.-725.2560.1417@1440.-725.2560.1417" timestamp="1611826659393" />
+    <state x="421" y="193" width="598" height="490" key="find.popup" timestamp="1611978862299">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="421" y="193" width="598" height="490" key="find.popup/0.23.1440.830@0.23.1440.830" timestamp="1611978862299" />
+  </component>
+</project>
